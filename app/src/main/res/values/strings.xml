@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tap Counter</string>
+    <string name="_0">Taps: 0</string>
+</resources>
