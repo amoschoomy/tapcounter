@@ -1,4 +1,4 @@
 # Tap Counter
-A simple tap counter app
+A simple open sourced tap counter app.
 
-App is still in development
+Features: Night Mode and a reset button to reset the count.
